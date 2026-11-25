@@ -23,3 +23,7 @@
 ## Initiate Chat on the other device
 
 <img src="Friends%20Device%20Tab.jpg" width="320" alt="Initiate Chat on the other device with a demo QR code">
+
+## My Device
+
+<img src="My%20Device.jpg" width="320" alt="BackPost My Device screen showing availability and retention settings">
