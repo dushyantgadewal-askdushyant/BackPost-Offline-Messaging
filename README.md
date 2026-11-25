@@ -30,6 +30,10 @@ BackPost is free to download and use, including at work. See [BackPost licensing
 | :---: | :---: |
 | <img src="assets/screenshots/Friends%20Chat%20Screen%20Tab.jpg" width="220" alt="BackPost conversation from the other phone"> | <img src="assets/screenshots/About%20BackPost.jpg" width="220" alt="About BackPost showing version and product details"> |
 
+| Initiate Chat | Initiate Chat on the other device |
+| :---: | :---: |
+| <img src="assets/screenshots/Home%20Screen%20Initiate%20chat.jpg" width="220" alt="Initiate Chat with a demo QR code"> | <img src="assets/screenshots/Friends%20Device%20Tab.jpg" width="220" alt="Initiate Chat on the other device with a demo QR code"> |
+
 See the [screenshot gallery](assets/screenshots/README.md) for the full set.
 
 ## Help and privacy
