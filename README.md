@@ -26,6 +26,10 @@ BackPost is free to download and use, including at work. See [BackPost licensing
 | :---: | :---: |
 | <img src="assets/screenshots/Active%20Chat.jpg" width="220" alt="BackPost active conversation"> | <img src="assets/screenshots/Chat%20History.jpg" width="220" alt="BackPost Chat History screen"> |
 
+| Conversation on the other phone | About BackPost |
+| :---: | :---: |
+| <img src="assets/screenshots/Friends%20Chat%20Screen%20Tab.jpg" width="220" alt="BackPost conversation from the other phone"> | <img src="assets/screenshots/About%20BackPost.jpg" width="220" alt="About BackPost showing version and product details"> |
+
 See the [screenshot gallery](assets/screenshots/README.md) for the full set.
 
 ## Help and privacy
