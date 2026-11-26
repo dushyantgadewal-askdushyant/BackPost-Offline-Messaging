@@ -1,4 +1,4 @@
-# BackPost for Android 1.0.0 · build 15
+# BackPost for Android 1.0.0 · build 18
 
 **Release status** · First stable Android release.
 
@@ -6,16 +6,21 @@ This release includes direct QR and nearby pairing, verified device identities, 
 
 BackPost is free to install and use. See [BackPost licensing](../LICENSE.md) for the terms that apply to this APK.
 
+## What changed in build 18
+
+- One branded Android launch screen highlights peer-to-peer messaging and end-to-end encryption.
+- Scan QR and Find nearby phones guide you to Settings when Bluetooth is off.
+
 ## APK and verification
 
-- GitHub release asset · **BackPost-Android-1.0.0+15-release.apk**
-- SHA-256 · **b23410f178b59283696b3a141d1f8b1fad3874e27343a5aefcfb54ff78882aba**
+- GitHub release asset · **BackPost-Android-1.0.0+18-release.apk**
+- SHA-256 · **b8fef1a8a1c5c2679a2f86b140b72a45acaf26f0e9f255164817541e0b7c21d8**
 - Availability · Use the [README download link](../README.md#download-for-android).
 
 On Windows, open PowerShell in your download folder and run the command below. Compare the result to the SHA-256 above.
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath './BackPost-Android-1.0.0+15-release.apk'
+Get-FileHash -Algorithm SHA256 -LiteralPath './BackPost-Android-1.0.0+18-release.apk'
 ```
 
 ## Updating a test installation

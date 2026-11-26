@@ -6,7 +6,7 @@
 
 ## Download for Android
 
-**[Download BackPost 1.0.0 for Android](https://github.com/dushyantgadewal-askdushyant/BackPost-Offline-Messaging/releases/download/v1.0.0/BackPost-Android-1.0.0%2B15-release.apk)** · Build 15 · 69.7 MB
+**[Download BackPost 1.0.0 for Android](https://github.com/dushyantgadewal-askdushyant/BackPost-Offline-Messaging/releases/download/v1.0.0/BackPost-Android-1.0.0%2B18-release.apk)** · Build 18 · 69.7 MB
 
 See [installation and first chat](docs/GETTING_STARTED.md) for setup and [release notes](docs/RELEASE_NOTES.md) for the SHA-256 checksum.
 
