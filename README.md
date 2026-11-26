@@ -2,7 +2,7 @@
 
 # BackPost
 
-BackPost is an Android messenger for people nearby. Pair two phones to exchange messages and files over a direct connection using Bluetooth or Wi-Fi. The exchange works without mobile data or an internet connection between the phones.
+**BackPost is a peer-to-peer Android messenger with end-to-end encryption.** Nearby phones exchange messages and files directly over Bluetooth or Wi-Fi, without mobile data or internet access. Messages and file contents are encrypted in transit between paired devices.
 
 ## Download for Android
 
